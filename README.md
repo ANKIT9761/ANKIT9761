@@ -22,8 +22,7 @@ Skills: React / Dsa /MicroFrontends / System Design
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANKIT9761)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ANKIT9761&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ANKIT9761)  
+ 
 
 ![GitHub metrics](https://metrics.lecoq.io/ANKIT9761)  
 
