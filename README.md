@@ -4,7 +4,7 @@
 
 I am problem solver who loves to explore tech. My expertise in tech are dsa,Building microfrontends with react,System design.
 
-Skills: React / Dsa /MicroFrontends / System Design
+Skills: React / Dsa / System Design
 
 - 🔭 I’m currently working on Building Myself and Dev_Matrix 
 - 🌱 I’m currently learning System Design 
